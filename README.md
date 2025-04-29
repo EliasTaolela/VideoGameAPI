@@ -31,7 +31,7 @@ SQL Server
 Installation
 Clone the repository:
 
-bash
+#bash
 Copy
 Edit
 git clone https://github.com/EliasTaolela/VideoGameAPI.git
@@ -53,7 +53,7 @@ bash
 Copy
 Edit
 dotnet run
-The API will be available at https://localhost:5001 or http://localhost:5000.
+The API will be available at (https://localhost:7291/scalar/v1)
 
 Usage
 Retrieve all games
